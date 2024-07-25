@@ -11,7 +11,11 @@ Demonstração de **animação 3d** utilizando a biblioteca *Three.js* e *WebGL*
 
 ## Demo 🎮
 
-https://malumsz.github.io/bmo-adventure/
+[![Button Example]][Link]
+
+[Link]: https://malumsz.github.io/3d-plane-demo/ '3d demo.'
+
+[Button Example]: https://img.shields.io/badge/demo-red?style=for-the-badge
 
 ## Preview 📷
 
