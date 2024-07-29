@@ -21,4 +21,10 @@ Demonstração de **animação 3d** utilizando a biblioteca *Three.js* e *WebGL*
 
 ![Imgur Image](https://i.imgur.com/XJhzZR0.png)
 
+## Descrição 📄
+- Utilizado pelo menos 3 tipos diferentes de geometrias: Árvores (Triângulos e Retângulos), Lua (Esfera), Planeta (Cilíndro);
+- Utilizado pelo menos 2 tipos de materiais: Cores sólidas combinadas com iluminação e texturas;
+- Carregado pelo menos 1 textura (Lua);
+- Possui pelo menos 2 fontes de iluminação: Somba projetada e iluminação da lua.
+
 #
